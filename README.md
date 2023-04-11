@@ -8,10 +8,6 @@ O dataset contém dados reais sobre a àrea de varejo.
 
 Nome do arquivo: dataset.csv
 
-Cabeçalho:
-
-|ID_Pedido|Data_Pedido|ID_Cliente|Segmento|Pais|Cidade|Estado|ID_Produto|Categoria|SubCategoria|Valor_Venda
-
 ### Tarefas
 
  Utilizando Pandas, Numpy, Matplotlib e Seaborn, o objetivo é responder as seguntes perguntas:
@@ -56,6 +52,6 @@ Demonstre o resultado através de gráfico de linha.
 Qual o Total de Vendas Por Categoria e SubCategoria, Considerando Somente as Top 12 SubCategorias? 
 Demonstre tudo através de um único gráfico.
 
-### Solution
+### Solução
 
 A solução foi colocada no Juputer Notebook 'Projeto2-MinhaSolucao'.
